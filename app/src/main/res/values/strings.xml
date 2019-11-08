@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GUess</string>
+    <string name="please_enter_a_number_1_10">Please enter a number(1~10)</string>
+    <string name="ok" />
+    <string name="yes_you_got_it">Yes~you got it</string>
+    <string name="Bigger">Bigger</string>
+    <string name="Samller">Samller</string>
+    <string name="dialog_title">Message</string>
+</resources>
